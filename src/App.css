@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Roboto+Slab:wght@100..900&display=swap');
+
+body {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400; 
+    background: linear-gradient(135deg, #2E1249 0%, #6C4B89 100%);
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: 700;
+}
